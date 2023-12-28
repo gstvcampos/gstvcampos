@@ -20,7 +20,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 
-![gstvcampos GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=gstvcampos&show_icons=true&theme=dracula&layout=compact)
 ![gstvcampos GitHub stats](https://github-readme-stats.vercel.app/api?username=gstvcampos&show_icons=true&theme=dracula&count_private=true)
+![gstvcampos GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=gstvcampos&show_icons=true&theme=dracula&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
