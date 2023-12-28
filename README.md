@@ -2,11 +2,6 @@
 
 <img align="right" width="300" src='https://randommeme-five.vercel.app/' alt="randomeme"/>
 
-
-[![Portfolio](https://img.shields.io/badge/portfolio-%23323330.svg?style=plastic&logo=protodotio&logoColor=white)](http://portfolio-gstvcampos.vercel.app/) 
-[![Email](https://img.shields.io/badge/Email-%23db4a39.svg?style=plastic&logo=gmail&logoColor=white)](mailto:gustavo.bmc76@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/mynetwork/invitation-manager/)
-
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
