@@ -1,3 +1,5 @@
+![Header](./header.png)
+
 <img align="right" width="300" src='https://randommeme-five.vercel.app/' alt="randomeme"/>
 
 ## 💻 Tech Stack:
