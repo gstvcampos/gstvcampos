@@ -1,4 +1,4 @@
-<img align="right" width="300" src='https://randommeme-five.vercel.app/' alt="randomeme"/>
+<img align="center" width="300" src='https://randommeme-five.vercel.app/' alt="randomeme"/>
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
