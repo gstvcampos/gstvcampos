@@ -1,8 +1,11 @@
 ![Header](./header.png)
 
-| [![Portfolio](https://img.shields.io/badge/portfolio-%23323330.svg?style=plastic&logo=protodotio&logoColor=white)](http://portfolio-gstvcampos.vercel.app/) | [![Email](https://img.shields.io/badge/Email-%23db4a39.svg?style=plastic&logo=gmail&logoColor=white)](mailto:gustavo.bmc76@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/mynetwork/invitation-manager/) |
-|---|---|---|
+<img align="right" width="400" src='https://randommeme-five.vercel.app/' alt="randomeme"/>
 
+
+[![Portfolio](https://img.shields.io/badge/portfolio-%23323330.svg?style=plastic&logo=protodotio&logoColor=white)](http://portfolio-gstvcampos.vercel.app/) 
+[![Email](https://img.shields.io/badge/Email-%23db4a39.svg?style=plastic&logo=gmail&logoColor=white)](mailto:gustavo.bmc76@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/mynetwork/invitation-manager/)
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
@@ -22,10 +25,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 
-| ![gstvcampos GitHub stats](https://github-readme-stats.vercel.app/api?username=gstvcampos&show_icons=true&theme=dracula&count_private=true) | ![gstvcampos GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=gstvcampos&show_icons=true&theme=dracula&layout=compact) |
-|---|---|
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+![gstvcampos GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=gstvcampos&show_icons=true&theme=dracula&layout=compact)
+![gstvcampos GitHub stats](https://github-readme-stats.vercel.app/api?username=gstvcampos&show_icons=true&theme=dracula&count_private=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
