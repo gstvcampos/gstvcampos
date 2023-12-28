@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-<img align="right" width="400" src='https://randommeme-five.vercel.app/' alt="randomeme"/>
+<img align="right" width="300" src='https://randommeme-five.vercel.app/' alt="randomeme"/>
 
 
 [![Portfolio](https://img.shields.io/badge/portfolio-%23323330.svg?style=plastic&logo=protodotio&logoColor=white)](http://portfolio-gstvcampos.vercel.app/) 
