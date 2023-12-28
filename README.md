@@ -1,3 +1,4 @@
+<img align="right" width="300" src='https://randommeme-five.vercel.app/' alt="randomeme"/>
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
@@ -20,5 +21,4 @@
 ![gstvcampos GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=gstvcampos&show_icons=true&theme=dracula&layout=compact)
 ![gstvcampos GitHub stats](https://github-readme-stats.vercel.app/api?username=gstvcampos&show_icons=true&theme=dracula&count_private=true)
 
-<img align="center" width="300" src='https://randommeme-five.vercel.app/' alt="randomeme"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
