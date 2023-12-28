@@ -1,8 +1,7 @@
 ![Header](./header.png)
 
-* 🖥️  See my portfolio at [![Portfolio](https://img.shields.io/badge/portfolio-%23323330.svg?style=plastic&logo=protodotio&logoColor=white)](mailto:gustavo.bmc76@gmail.com)
-* ✉️  You can contact me at [![Email](https://img.shields.io/badge/Email-%23E0234E.svg?style=plastic&logo=gmail&logoColor=white)](mailto:gustavo.bmc76@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gstvcampos/)
+| [![Portfolio](https://img.shields.io/badge/portfolio-%23323330.svg?style=plastic&logo=protodotio&logoColor=white)](http://portfolio-gstvcampos.vercel.app/) | [![Email](https://img.shields.io/badge/Email-%23db4a39.svg?style=plastic&logo=gmail&logoColor=white)](mailto:gustavo.bmc76@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/mynetwork/invitation-manager/) |
+|---|---|---|
 
 
 ## 💻 Tech Stack:
