@@ -1,7 +1,4 @@
-![Header](./header.png)
-
 ## 💻 Tech Stack:
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
@@ -18,8 +15,3 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-
-![gstvcampos GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=gstvcampos&show_icons=true&theme=dracula&layout=compact)
-![gstvcampos GitHub stats](https://github-readme-stats.vercel.app/api?username=gstvcampos&show_icons=true&theme=dracula&count_private=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
