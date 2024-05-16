@@ -44,7 +44,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img height=180 src="https://github-readme-stats.vercel.app/api?username=gstvcampos&show_icons=true&theme=radical" />
-  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gstvcampos&layout=compact&theme=radical" />
+  <img height=180 src="https://github-readme-stats.vercel.app/api?username=gstvcampos&show_icons=true&theme=react" />
+  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gstvcampos&layout=compact&theme=react" />
 </div>
 <br/>
