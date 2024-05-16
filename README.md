@@ -39,4 +39,12 @@
     <img src="https://skillicons.dev/icons?i=nodejs,py,javascript,typescript,express,nestjs,prisma,firebase,mongodb,mysql,postgres" /><br>
 </div>
 
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+  <img height=180 src="https://github-readme-stats.vercel.app/api?username=gstvcampos&show_icons=true&theme=radical" />
+  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gstvcampos&layout=compact&theme=radical" />
+</div>
 <br/>
