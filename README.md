@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Native, Validate**
+ 🌱 I’m currently learning **Native, Sequelize**
 
 💬 Ask me about **Node.js, React, Next...**
 
